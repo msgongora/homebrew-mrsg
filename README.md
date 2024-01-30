@@ -1,4 +1,4 @@
-# Msgongora Mrsg
+# Personal homebrew recipes
 
 ## How do I install these formulae?
 
